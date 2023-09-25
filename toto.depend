@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680276178 source:c:\users\elamr\documents\toto\titi.cpp
+	<iostream>
+	<string>
+
